@@ -4,7 +4,7 @@ import { unwrapClineEnvelope } from "open-sse/shared/clineEnvelope.js";
 import { APP_PORT } from "@/shared/constants/config";
 import { getConsistentMachineId } from "@/shared/utils/machineId";
 
-const CLI_TOKEN_SALT = "9r-cli-auth";
+const CLI_TOKEN_SALT = "44r-cli-auth";
 
 function createSilentWavFile() {
   const sampleRate = 16000;
@@ -51,7 +51,7 @@ async function getInternalHeaders() {
 
   const headers = { "Content-Type": "application/json" };
   if (apiKey) headers["Authorization"] = `Bearer ${apiKey}`;
-  headers["x-9r-cli-token"] = await getConsistentMachineId(CLI_TOKEN_SALT);
+  headers["x-44r-cli-token"] = await getConsistentMachineId(CLI_TOKEN_SALT);
   return headers;
 }
 

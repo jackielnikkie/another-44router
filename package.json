@@ -1,7 +1,7 @@
 {
-  "name": "another-9router",
+  "name": "another-44router",
   "version": "0.1.0",
-  "description": "Another 9Router web dashboard",
+  "description": "Another 44Router web dashboard",
   "private": true,
   "scripts": {
     "dev": "next dev --port 20127",

@@ -8,7 +8,7 @@ import { createRequire } from "module";
 export const NOUS_ATTRIBUTION = {
   hostname: "inference-api.nousresearch.com",
   chatCompletionsPath: "/v1/chat/completions",
-  tags: ["product=9router", "client=9router", "user=9router"],
+  tags: ["product=44router", "client=44router", "user=44router"],
 };
 
 // === Gemini CLI === derive từ registry gemini-cli.transport
@@ -244,7 +244,7 @@ export function buildKimiHeaders(deviceId) {
     : `kimi-${Date.now()}`;
 
   return {
-    "X-Msh-Platform": "9router",
+    "X-Msh-Platform": "44router",
     "X-Msh-Version": getAppPackageVersion(),
     "X-Msh-Device-Name": deviceName,
     "X-Msh-Device-Model": deviceModel,

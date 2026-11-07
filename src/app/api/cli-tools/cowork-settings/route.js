@@ -10,8 +10,8 @@ import { APP_PORT } from "@/shared/constants/config";
 import { getConsistentMachineId } from "@/shared/utils/machineId";
 
 
-const CLI_TOKEN_HEADER = "x-9r-cli-token";
-const CLI_TOKEN_SALT = "9r-cli-auth";
+const CLI_TOKEN_HEADER = "x-44r-cli-token";
+const CLI_TOKEN_SALT = "44r-cli-auth";
 const LOCAL_MCP_PREFIX = `http://localhost:${APP_PORT}/api/mcp/`;
 
 let cachedCliToken = null;
@@ -258,7 +258,7 @@ export async function GET() {
       ? config.inferenceModels.map((m) => (typeof m === "string" ? m : m?.name)).filter(Boolean)
       : [];
     const managedMcp = Array.isArray(config?.managedMcpServers) ? config.managedMcpServers : [];
-    const has9Router = !!(config?.inferenceProvider === PROVIDER && baseUrl);
+    const has44Router = !!(config?.inferenceProvider === PROVIDER && baseUrl);
 
     // Active local plugins = managedMcp entries whose URL points at our inline bridge.
     const stdioNames = new Set(LOCAL_STDIO_PLUGINS.map((p) => p.name));
@@ -274,7 +274,7 @@ export async function GET() {
     return NextResponse.json({
       installed: true,
       config,
-      has9Router,
+      has44Router,
       configPath,
       cowork: {
         appliedId,

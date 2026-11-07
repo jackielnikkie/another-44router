@@ -89,7 +89,7 @@ graphify-out/*
 
 # Kiro local workspace state
 .kiro/
-9router-*
+44router-*
 
 # Local agent tooling state
 .evrax/

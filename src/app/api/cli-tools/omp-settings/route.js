@@ -10,7 +10,7 @@ import { promisify } from "util";
 
 const execAsync = promisify(exec);
 
-const PROVIDER_ID = "9router";
+const PROVIDER_ID = "44router";
 const getOmpDir = () => path.join(os.homedir(), ".omp", "agent");
 const getOmpDbPath = () => path.join(getOmpDir(), "agent.db");
 const getOmpModelsYmlPath = () => path.join(getOmpDir(), "models.yml");
@@ -44,12 +44,12 @@ const readModelsYml = async () => {
   }
 };
 
-const has9RouterInYml = (content) => {
+const has44RouterInYml = (content) => {
   if (!content) return false;
-  return content.includes("9router:") || content.includes("localhost:20128");
+  return content.includes("44router:") || content.includes("localhost:20128");
 };
 
-// Build standard 9Router provider block for models.yml
+// Build standard 44Router provider block for models.yml
 const buildOmpProviderYaml = (baseUrl, apiKey) => {
   const normalizedBaseUrl = baseUrl.endsWith("/v1") ? baseUrl : `${baseUrl}/v1`;
   const key = apiKey || "";
@@ -75,11 +75,11 @@ export async function GET() {
     }
 
     const ymlContent = await readModelsYml();
-    const has9Router = has9RouterInYml(ymlContent);
+    const has44Router = has44RouterInYml(ymlContent);
 
     return NextResponse.json({
       installed: true,
-      has9Router,
+      has44Router,
       configPath: getOmpModelsYmlPath(),
     });
   } catch (err) {
@@ -108,7 +108,7 @@ export async function POST(request) {
     let ymlContent = await readModelsYml();
     const providerBlock = buildOmpProviderYaml(baseUrl, resolvedKey);
 
-    // Remove existing 9router provider if present
+    // Remove existing 44router provider if present
     const regex = new RegExp(`\\s*${PROVIDER_ID}:[\\s\\S]*?(?=\\n\\s*\\w+:|$)`, "g");
     ymlContent = ymlContent.replace(regex, "");
 
@@ -152,7 +152,7 @@ export async function POST(request) {
 
     return NextResponse.json({
       success: true,
-      message: "Oh My Pi settings applied! Run 'omp' and all 9Router models appear under 9router in /model.",
+      message: "Oh My Pi settings applied! Run 'omp' and all 44Router models appear under 44router in /model.",
       configPath: getOmpModelsYmlPath(),
     });
   } catch (err) {
@@ -174,7 +174,7 @@ export async function DELETE() {
 
     return NextResponse.json({
       success: true,
-      message: "9Router removed from Oh My Pi",
+      message: "44Router removed from Oh My Pi",
     });
   } catch (err) {
     return NextResponse.json({ error: { message: err.message } }, { status: 500 });

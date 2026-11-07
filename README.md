@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="./images/9router.png?1" alt="Another 9Router Dashboard" width="800"/>
+  <img src="./images/44router.png?1" alt="Another 44Router Dashboard" width="800"/>
   
-  # Another 9Router - FREE AI Router & Token Saver
+  # Another 44Router - FREE AI Router & Token Saver
   
   **Never stop coding. Save 20-40% tokens with RTK + auto-fallback to FREE & cheap AI models.**
   
   **Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models.**
   
-  > **Another 9Router** is a personal fork of [9Router](https://github.com/decolua/9router) by [@decolua](https://github.com/decolua). All credit for the original project goes to its author and contributors — see [Acknowledgments](#-acknowledgments).
+  > **Another 44Router** is a personal fork of [44Router](https://github.com/decolua/44router) by [@decolua](https://github.com/decolua). All credit for the original project goes to its author and contributors — see [Acknowledgments](#-acknowledgments).
   
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🤔 Why Another 9Router?
+## 🤔 Why Another 44Router?
 
 **Stop wasting money, tokens and hitting limits:**
 
@@ -27,7 +27,7 @@
 - ❌ Expensive APIs ($20-50/month per provider)
 - ❌ Manual switching between providers
 
-**Another 9Router solves this:**
+**Another 44Router solves this:**
 
 - ✅ **RTK Token Saver** - Auto-compress tool_result content, save 20-40% tokens per request
 - ✅ **Maximize subscriptions** - Track quota, use every bit before reset
@@ -47,7 +47,7 @@
        │ http://localhost:20128/v1
        ↓
 ┌─────────────────────────────────────────────┐
-│           Another 9Router (Smart Router)            │
+│           Another 44Router (Smart Router)            │
 │  • RTK Token Saver (cut tool_result tokens) │
 │  • Format translation (OpenAI ↔ Claude)     │
 │  • Quota tracking                           │
@@ -67,14 +67,14 @@ Result: Never stop coding, minimal cost + 20-40% token savings via RTK
 
 ## ⚡ Quick Start
 
-> The npm package `9router` and its Docker images belong to the **upstream project**.
+> The npm package `44router` and its Docker images belong to the **upstream project**.
 > This fork is not published to npm — install it from source.
 
 **1. Clone and install:**
 
 ```bash
-git clone https://github.com/jackielnikkie/another-9router.git
-cd another-9router
+git clone https://github.com/jackielnikkie/another-44router.git
+cd another-44router
 npm install
 npm run build
 npm run start
@@ -86,8 +86,8 @@ Prefer a globally installed CLI? Pack and link it:
 
 ```bash
 npm run cli:pack
-npm install -g ./another-9router-0.1.0.tgz
-another-9router
+npm install -g ./another-44router-0.1.0.tgz
+another-44router
 ```
 
 **2. Connect a FREE provider (no signup needed):**
@@ -138,31 +138,31 @@ Default URLs:
   <tr>
     <td align="center" width="320">
       <a href="https://www.youtube.com/watch?v=X69n5Lm06Yw">
-        <img src="https://img.youtube.com/vi/X69n5Lm06Yw/maxresdefault.jpg" alt="Tiết kiệm chi phí LLM với 9Router" width="300"/>
+        <img src="https://img.youtube.com/vi/X69n5Lm06Yw/maxresdefault.jpg" alt="Tiết kiệm chi phí LLM với 44Router" width="300"/>
       </a><br/>
       <b>🇻🇳 Tiếng Việt</b><br/>
-      <sub>Tiết kiệm chi phí LLM cho OpenClaw với 9Router<br/>by <a href="https://www.youtube.com/c/M%C3%ACAIblog">Mì AI</a></sub>
+      <sub>Tiết kiệm chi phí LLM cho OpenClaw với 44Router<br/>by <a href="https://www.youtube.com/c/M%C3%ACAIblog">Mì AI</a></sub>
     </td>
     <td align="center" width="320">
       <a href="https://youtu.be/VQAw612S27Y">
-        <img src="https://img.youtube.com/vi/VQAw612S27Y/maxresdefault.jpg" alt="9Router + Claude Code FREE Unlimited Setup" width="300"/>
+        <img src="https://img.youtube.com/vi/VQAw612S27Y/maxresdefault.jpg" alt="44Router + Claude Code FREE Unlimited Setup" width="300"/>
       </a><br/>
       <b>🇵🇰 اردو / हिन्दी</b><br/>
-      <sub>9Router + Claude Code FREE Unlimited Setup<br/>by <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
+      <sub>44Router + Claude Code FREE Unlimited Setup<br/>by <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
     </td>
     <td align="center" width="320">
       <a href="https://www.youtube.com/watch?v=raEyZPg5xE0">
-        <img src="https://img.youtube.com/vi/raEyZPg5xE0/maxresdefault.jpg" alt="9Router Setup Tutorial" width="300"/>
+        <img src="https://img.youtube.com/vi/raEyZPg5xE0/maxresdefault.jpg" alt="44Router Setup Tutorial" width="300"/>
       </a><br/>
       <b>🇺🇸 English</b><br/>
-      <sub>9Router + Claude Code FREE Setup<br/>by <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
+      <sub>44Router + Claude Code FREE Setup<br/>by <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
     </td>
     <td align="center" width="320">
       <a href="https://youtu.be/3dF5GIYMrcQ?si=bAyfyiHbARJQAHj_">
-        <img src="https://img.youtube.com/vi/3dF5GIYMrcQ/hqdefault.jpg" alt="9Router Setup Tutorial" width="300"/>
+        <img src="https://img.youtube.com/vi/3dF5GIYMrcQ/hqdefault.jpg" alt="44Router Setup Tutorial" width="300"/>
       </a><br/>
       <b>🇺🇸 English</b><br/>
-      <sub>9Router + Claude Code FREE Setup<br/>by <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
+      <sub>44Router + Claude Code FREE Setup<br/>by <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
     </td>
     <td align="center" width="320">
       <a href="https://www.youtube.com/watch?v=o3qYCyjrFYg">
@@ -178,14 +178,14 @@ Default URLs:
         <img src="https://img.youtube.com/vi/Ttpc26m39Dw/maxresdefault.jpg" alt="Claude CLI Free Setup" width="300"/>
       </a><br/>
       <b>🇺🇸 English</b><br/>
-      <sub>Claude CLI Free Setup with 9Router 🚀<br/>by <a href="https://www.youtube.com/@CodeVerseSoban">CodeVerse Soban</a></sub>
+      <sub>Claude CLI Free Setup with 44Router 🚀<br/>by <a href="https://www.youtube.com/@CodeVerseSoban">CodeVerse Soban</a></sub>
     </td>
     <td align="center" width="320">
       <a href="https://www.youtube.com/watch?v=G-5A_D5Pm6Y">
         <img src="https://img.youtube.com/vi/G-5A_D5Pm6Y/maxresdefault.jpg" alt="Cài đặt OpenClaw Free A-Z" width="300"/>
       </a><br/>
       <b>🇻🇳 Tiếng Việt</b><br/>
-      <sub>Cài Đặt OpenClaw Free Từ A-Z + 9Router<br/>by <a href="https://www.youtube.com/@maigia">Mai Gia</a></sub>
+      <sub>Cài Đặt OpenClaw Free Từ A-Z + 44Router<br/>by <a href="https://www.youtube.com/@maigia">Mai Gia</a></sub>
     </td>
     <td align="center" width="320">
       <a href="https://www.youtube.com/watch?v=JXmg8_gccgE">
@@ -199,14 +199,14 @@ Default URLs:
         <img src="https://img.youtube.com/vi/CkVZZUSTXAI/mqdefault.jpg" alt="Claude CLI Free Setup" width="300"/>
       </a><br/>
       <b>🇮🇩 Indonesia</b><br/>
-      <sub>Koding 24 Jam Anti Rate Limit! Hemat Token AI 65% | Tutorial Quick Setup 9Router 🚀<br/>by <a href="https://www.youtube.com/@krisswuh">Krisswuh</a></sub>
+      <sub>Koding 24 Jam Anti Rate Limit! Hemat Token AI 65% | Tutorial Quick Setup 44Router 🚀<br/>by <a href="https://www.youtube.com/@krisswuh">Krisswuh</a></sub>
     </td>
     <td align="center" width="320">
       <a href="https://www.youtube.com/watch?v=TXGv4eofe1I">
-        <img src="https://img.youtube.com/vi/TXGv4eofe1I/mqdefault.jpg" alt="Cara Deploy 9Router di Hugging Face GRATIS Non-Stop! | Alternatif VPS RAM 16GB" width="300"/>
+        <img src="https://img.youtube.com/vi/TXGv4eofe1I/mqdefault.jpg" alt="Cara Deploy 44Router di Hugging Face GRATIS Non-Stop! | Alternatif VPS RAM 16GB" width="300"/>
       </a><br/>
       <b>🇮🇩 Indonesia</b><br/>
-      <sub>Cara Deploy 9Router di Hugging Face GRATIS Non-Stop! | Alternatif VPS RAM 16GB<br/>by <a href="https://www.youtube.com/@krisswuh">Krisswuh</a></sub>
+      <sub>Cara Deploy 44Router di Hugging Face GRATIS Non-Stop! | Alternatif VPS RAM 16GB<br/>by <a href="https://www.youtube.com/@krisswuh">Krisswuh</a></sub>
     </td>
   </tr>
   <tr>
@@ -219,18 +219,18 @@ Default URLs:
     </td>
     <td align="center" width="320">
       <a href="https://www.youtube.com/watch?v=hPusYX-5Pmw">
-        <img src="https://img.youtube.com/vi/hPusYX-5Pmw/maxresdefault.jpg" alt="Hướng Dẫn Setup OpenClaw + 9Router: Tạo Bot Zalo AI Tự Động Từ A-Z" width="300"/>
+        <img src="https://img.youtube.com/vi/hPusYX-5Pmw/maxresdefault.jpg" alt="Hướng Dẫn Setup OpenClaw + 44Router: Tạo Bot Zalo AI Tự Động Từ A-Z" width="300"/>
       </a><br/>
       <b>🇻🇳 Tiếng Việt</b><br/>
-      <sub>Hướng Dẫn Setup OpenClaw + 9Router: Tạo Bot Zalo AI Tự Động Từ A-Z<br/>by <a href="https://github.com/tuanminhhole">tuanminhhole</a></sub>
+      <sub>Hướng Dẫn Setup OpenClaw + 44Router: Tạo Bot Zalo AI Tự Động Từ A-Z<br/>by <a href="https://github.com/tuanminhhole">tuanminhhole</a></sub>
     </td>
     <td align="center" width="320">
       <a href="https://www.youtube.com/watch?v=hgnE7MKi3Y4">
-        <img src="https://img.youtube.com/vi/hgnE7MKi3Y4/maxresdefault.jpg" alt="Bye Limit! Cara Bikin Sistem 'AI Unlimited' 100% Gratis Dengan 9Router!
+        <img src="https://img.youtube.com/vi/hgnE7MKi3Y4/maxresdefault.jpg" alt="Bye Limit! Cara Bikin Sistem 'AI Unlimited' 100% Gratis Dengan 44Router!
 " width="300"/>
       </a><br/>
       <b>🇮🇩 Indonesia</b><br/>
-      <sub>Bye Limit! Cara Bikin Sistem "AI Unlimited" 100% Gratis Dengan 9Router!<br/>by <a href="https://www.youtube.com/@neptiver">neptiver</a></sub>
+      <sub>Bye Limit! Cara Bikin Sistem "AI Unlimited" 100% Gratis Dengan 44Router!<br/>by <a href="https://www.youtube.com/@neptiver">neptiver</a></sub>
     </td>
     <td align="center" width="320"></td>
     <td align="center" width="320"></td>
@@ -239,13 +239,13 @@ Default URLs:
 
 </div>
 
-> 🎬 **Made a video about Another 9Router?** Submit a [Pull Request](https://github.com/jackielnikkie/another-9router/pulls) adding your video to this section — we'll merge it!
+> 🎬 **Made a video about Another 44Router?** Submit a [Pull Request](https://github.com/jackielnikkie/another-44router/pulls) adding your video to this section — we'll merge it!
 
 ---
 
 ## 🛠️ Supported CLI Tools
 
-Another 9Router works seamlessly with all major AI coding tools:
+Another 44Router works seamlessly with all major AI coding tools:
 
 <div align="center">
   <table>
@@ -544,7 +544,7 @@ a third party under a provider named "Self-hosted".
 | 📊 **Usage Analytics**                                                            | Track tokens, cost, trends over time                                                     | Optimize spending                                 |
 | 🌐 **Deploy Anywhere**                                                            | Localhost, VPS, Docker, Cloudflare Workers                                               | Flexible deployment options                       |
 
-Set `X-9Router-Token-Saver: off` to bypass all token savers for one chat request.
+Set `X-44Router-Token-Saver: off` to bypass all token savers for one chat request.
 
 <details>
 <summary><b>📖 Feature Details</b></summary>
@@ -566,10 +566,10 @@ With RTK:    28K tokens sent to LLM   (40% saved · same context · same answer)
 
 ### 🧠 Headroom Token Saver
 
-Headroom is optional and runs separately. Another 9Router calls Headroom's local `/v1/compress` endpoint, then keeps normal routing, fallback, auth, and usage tracking:
+Headroom is optional and runs separately. Another 44Router calls Headroom's local `/v1/compress` endpoint, then keeps normal routing, fallback, auth, and usage tracking:
 
 ```
-Client → Another 9Router → Headroom /v1/compress → Another 9Router → provider
+Client → Another 44Router → Headroom /v1/compress → Another 44Router → provider
 ```
 
 Local setup:
@@ -591,7 +591,7 @@ http://headroom:8787
 http://host.docker.internal:8787
 ```
 
-If Headroom is down or returns an error, Another 9Router fails open and sends the original request.
+If Headroom is down or returns an error, Another 44Router fails open and sends the original request.
 
 ### 🐴 Ponytail (Lazy Senior Dev)
 
@@ -633,7 +633,7 @@ Combo: "my-coding-stack"
 Seamless translation between formats:
 
 - **OpenAI** ↔ **Claude** ↔ **Gemini** ↔ **Cursor** ↔ **Kiro** ↔ **Vertex** ↔ **Antigravity** ↔ **Ollama** ↔ **OpenAI Responses**
-- Your CLI tool sends OpenAI format → Another 9Router translates → Provider receives native format
+- Your CLI tool sends OpenAI format → Another 44Router translates → Provider receives native format
 - Works with any tool that supports custom OpenAI endpoints
 
 ### 👥 Multi-Account Support
@@ -687,13 +687,13 @@ Seamless translation between formats:
 > **💡 IMPORTANT - Understanding Dashboard Costs:**
 >
 > The "cost" displayed in Usage Analytics is **for tracking and comparison purposes only**.
-> Another 9Router itself **never charges** you anything. You only pay providers directly (if using paid services).
+> Another 44Router itself **never charges** you anything. You only pay providers directly (if using paid services).
 >
 > **Example:** If your dashboard shows "$290 total cost" while using Kiro free models, this represents
 > what you would have paid using paid APIs directly. Your actual cost = **$0** (Kiro free tier: ~50 credits/mo).
 >
 > Think of it as a "savings tracker" showing how much you're saving by using free models or
-> routing through Another 9Router!
+> routing through Another 44Router!
 
 ### 🌐 Deploy Anywhere
 
@@ -726,15 +726,15 @@ Seamless translation between formats:
 
 ---
 
-### 📊 Understanding Another 9Router Costs & Billing
+### 📊 Understanding Another 44Router Costs & Billing
 
-**Another 9Router Billing Reality:**
+**Another 44Router Billing Reality:**
 
-✅ **Another 9Router software = FREE forever** (open source, never charges)  
+✅ **Another 44Router software = FREE forever** (open source, never charges)  
 ✅ **Dashboard "costs" = Display/tracking only** (not actual bills)  
 ✅ **You pay providers directly** (subscriptions or API fees)  
 ✅ **FREE providers stay FREE** (Kiro ~50 credits/mo, OpenCode Free, Vertex $300 credits = $0 within free-tier limits) — note iFlow/Qwen/Gemini CLI free tiers were discontinued in 2026
-❌ **Another 9Router never sends invoices** or charges your card
+❌ **Another 44Router never sends invoices** or charges your card
 
 **How Cost Display Works:**
 
@@ -757,9 +757,9 @@ Reality Check:
 **Payment Rules:**
 
 - **Subscription providers** (Claude Code, Codex): Pay them directly via their websites
-- **Cheap providers** (GLM, MiniMax): Pay them directly, Another 9Router just routes
+- **Cheap providers** (GLM, MiniMax): Pay them directly, Another 44Router just routes
 - **FREE providers** (iFlow, Kiro, Qwen): Genuinely free forever, no hidden charges
-- **Another 9Router**: Never charges anything, ever
+- **Another 44Router**: Never charges anything, ever
 
 ---
 
@@ -838,7 +838,7 @@ Access via: WhatsApp, Telegram, Slack, Discord, iMessage, Signal...
 <details>
 <summary><b>📊 Why does my dashboard show high costs?</b></summary>
 
-The dashboard tracks your token usage and displays **estimated costs** as if you were using paid APIs directly. This is **not actual billing** - it's a reference to show how much you're saving by using free models or existing subscriptions through Another 9Router.
+The dashboard tracks your token usage and displays **estimated costs** as if you were using paid APIs directly. This is **not actual billing** - it's a reference to show how much you're saving by using free models or existing subscriptions through Another 44Router.
 
 **Example:**
 
@@ -852,17 +852,17 @@ The cost display is a "savings tracker" to help you understand your usage patter
 </details>
 
 <details>
-<summary><b>💳 Will I be charged by Another 9Router?</b></summary>
+<summary><b>💳 Will I be charged by Another 44Router?</b></summary>
 
-**No.** Another 9Router is free, open-source software that runs on your own computer. It never charges you anything.
+**No.** Another 44Router is free, open-source software that runs on your own computer. It never charges you anything.
 
 **You only pay:**
 
 - ✅ **Subscription providers** (Claude Code $20/mo, Codex $20-200/mo) → Pay them directly on their websites
-- ✅ **Cheap providers** (GLM, MiniMax) → Pay them directly, Another 9Router just routes your requests
-- ❌ **Another 9Router itself** → **Never charges anything, ever**
+- ✅ **Cheap providers** (GLM, MiniMax) → Pay them directly, Another 44Router just routes your requests
+- ❌ **Another 44Router itself** → **Never charges anything, ever**
 
-Another 9Router is a local proxy/router. It doesn't have your credit card, can't send invoices, and has no billing system. It's completely free software.
+Another 44Router is a local proxy/router. It doesn't have your credit card, can't send invoices, and has no billing system. It's completely free software.
 
 </details>
 
@@ -877,7 +877,7 @@ These are free services offered by those respective companies:
 - **OpenCode Free**: No-auth passthrough proxy, models auto-fetched from `opencode.ai/zen/v1/models`. The free model list fluctuates over time (some models free only for limited promos) — subject to change without notice.
 - **Vertex AI**: $300 free credits for new Google Cloud accounts (90 days). Since Mar 2026 the Gemini API endpoint no longer consumes these credits — use the **Vertex AI Studio** endpoint instead.
 
-Another 9Router just routes your requests to them - there's no "catch" or future billing from 9Router itself. They're truly free services, and 9Router makes them easy to use with fallback support.
+Another 44Router just routes your requests to them - there's no "catch" or future billing from 44Router itself. They're truly free services, and 44Router makes them easy to use with fallback support.
 
 **Discontinued free tiers (no longer recommended):**
 
@@ -912,7 +912,7 @@ Another 9Router just routes your requests to them - there's no "catch" or future
 
 3. **Use subscription providers last:**
    - Only if you already have them
-   - Another 9Router helps maximize their value through quota tracking
+   - Another 44Router helps maximize their value through quota tracking
 
 **Result:** Most users can operate at $0/month using only free tiers!
 
@@ -921,22 +921,22 @@ Another 9Router just routes your requests to them - there's no "catch" or future
 <details>
 <summary><b>📈 What if my usage suddenly spikes?</b></summary>
 
-Another 9Router's smart fallback prevents surprise charges:
+Another 44Router's smart fallback prevents surprise charges:
 
 **Scenario:** You're on a coding sprint and blow through your quotas
 
-**Without Another 9Router:**
+**Without Another 44Router:**
 
 - ❌ Hit rate limit → Work stops → Frustration
 - ❌ Or: Accidentally rack up huge API bills
 
-**With Another 9Router:**
+**With Another 44Router:**
 
 - ✅ Subscription hits limit → Auto-fallback to cheap tier
 - ✅ Cheap tier gets expensive → Auto-fallback to free tier
 - ✅ Never stop coding → Predictable costs
 
-**You're in control:** Set spending limits per provider in dashboard, and Another 9Router respects them.
+**You're in control:** Set spending limits per provider in dashboard, and Another 44Router respects them.
 
 </details>
 
@@ -961,7 +961,7 @@ Models:
   cc/claude-haiku-4-5-20251001
 ```
 
-**Pro Tip:** Use Opus for complex tasks, Sonnet for speed. Another 9Router tracks quota per model!
+**Pro Tip:** Use Opus for complex tasks, Sonnet for speed. Another 44Router tracks quota per model!
 
 ### OpenAI Codex (Plus/Pro)
 
@@ -1160,7 +1160,7 @@ Cost: $0 forever (+ 20-40% token savings via RTK)!
 ```
 Settings → Models → Advanced:
   OpenAI API Base URL: http://localhost:20128/v1
-  OpenAI API Key: [from 9router dashboard]
+  OpenAI API Key: [from 44router dashboard]
   Model: cc/claude-opus-4-7
 ```
 
@@ -1173,7 +1173,7 @@ Edit `~/.claude/config.json`:
 ```json
 {
   "anthropic_api_base": "http://localhost:20128/v1",
-  "anthropic_api_key": "your-9router-api-key"
+  "anthropic_api_key": "your-44router-api-key"
 }
 ```
 
@@ -1181,7 +1181,7 @@ Edit `~/.claude/config.json`:
 
 ```bash
 export OPENAI_BASE_URL="http://localhost:20128"
-export OPENAI_API_KEY="your-9router-api-key"
+export OPENAI_API_KEY="your-44router-api-key"
 
 codex "your prompt"
 ```
@@ -1201,15 +1201,15 @@ Dashboard → CLI Tools → OpenClaw → Select Model → Apply
   "agents": {
     "defaults": {
       "model": {
-        "primary": "9router/kr/claude-sonnet-4.5"
+        "primary": "44router/kr/claude-sonnet-4.5"
       }
     }
   },
   "models": {
     "providers": {
-      "9router": {
+      "44router": {
         "baseUrl": "http://127.0.0.1:20128/v1",
-        "apiKey": "sk_9router",
+        "apiKey": "sk_44router",
         "api": "openai-completions",
         "models": [
           {
@@ -1223,7 +1223,7 @@ Dashboard → CLI Tools → OpenClaw → Select Model → Apply
 }
 ```
 
-> **Note:** OpenClaw only works with local Another 9Router. Use `127.0.0.1` instead of `localhost` to avoid IPv6 resolution issues.
+> **Note:** OpenClaw only works with local Another 44Router. Use `127.0.0.1` instead of `localhost` to avoid IPv6 resolution issues.
 
 ### Cline / Continue / RooCode
 
@@ -1243,15 +1243,15 @@ Model: cc/claude-opus-4-7
 
 ```bash
 # Clone and install
-git clone https://github.com/jackielnikkie/another-9router.git
-cd another-9router
+git clone https://github.com/jackielnikkie/another-44router.git
+cd another-44router
 npm install
 npm run build
 
 # Configure
 export JWT_SECRET="your-secure-secret-change-this"
 export INITIAL_PASSWORD="your-password"
-export DATA_DIR="/var/lib/another-9router"
+export DATA_DIR="/var/lib/another-44router"
 export PORT="20128"
 export HOSTNAME="0.0.0.0"
 export NODE_ENV="production"
@@ -1264,7 +1264,7 @@ npm run start
 
 # Or use PM2
 npm install -g pm2
-pm2 start npm --name another-9router -- start
+pm2 start npm --name another-44router -- start
 pm2 save
 pm2 startup
 ```
@@ -1273,16 +1273,16 @@ pm2 startup
 
 > **Note:** this fork does not publish prebuilt images. The upstream Docker Hub /
 > GHCR images belong to the original project and carry its branding — do not use
-> them for Another 9Router. Build the image yourself from source if you need one.
+> them for Another 44Router. Build the image yourself from source if you need one.
 
 **Build from source:**
 
 ```bash
-git clone https://github.com/jackielnikkie/another-9router.git
-cd another-9router
-docker build -t another-9router .
-docker run -d --name another-9router -p 20128:20128 \
-  -v "$HOME/.9router:/app/data" -e DATA_DIR=/app/data another-9router
+git clone https://github.com/jackielnikkie/another-44router.git
+cd another-44router
+docker build -t another-44router .
+docker run -d --name another-44router -p 20128:20128 \
+  -v "$HOME/.44router:/app/data" -e DATA_DIR=/app/data another-44router
 ```
 
 → Open http://localhost:20128
@@ -1295,20 +1295,20 @@ docker run -d --name another-9router -p 20128:20128 \
 **Useful commands:**
 
 ```bash
-docker logs -f another-9router
-docker restart another-9router
-docker stop another-9router && docker rm another-9router
+docker logs -f another-44router
+docker restart another-44router
+docker stop another-44router && docker rm another-44router
 ```
 
-**Data persistence:** `$HOME/.9router/db/data.sqlite` on host ↔ `/app/data/db/data.sqlite` in container.
+**Data persistence:** `$HOME/.44router/db/data.sqlite` on host ↔ `/app/data/db/data.sqlite` in container.
 
 ### Environment Variables
 
 | Variable                                             | Default                                  | Description                                                                         |
 | ---------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------- |
-| `JWT_SECRET`                                         | Auto-generated (`~/.9router/jwt-secret`) | JWT signing secret for dashboard auth cookie (override to share across instances)   |
+| `JWT_SECRET`                                         | Auto-generated (`~/.44router/jwt-secret`) | JWT signing secret for dashboard auth cookie (override to share across instances)   |
 | `INITIAL_PASSWORD`                                   | `123456`                                 | First login password when no saved hash exists                                      |
-| `DATA_DIR`                                           | `~/.9router`                             | Main app data location (SQLite at `$DATA_DIR/db/data.sqlite`)                       |
+| `DATA_DIR`                                           | `~/.44router`                             | Main app data location (SQLite at `$DATA_DIR/db/data.sqlite`)                       |
 | `PORT`                                               | framework default                        | Service port (`20128` in examples)                                                  |
 | `HOSTNAME`                                           | framework default                        | Bind host (Docker defaults to `0.0.0.0`)                                            |
 | `NODE_ENV`                                           | runtime default                          | Set `production` for deploy                                                         |
@@ -1336,7 +1336,7 @@ Notes:
 - Main app state: `${DATA_DIR}/db/data.sqlite` (SQLite — providers, combos, aliases, keys, settings, usage history)
 - Auto backups: `${DATA_DIR}/db/backups/`
 - Optional request/translator logs: `<repo>/logs/...` when `ENABLE_REQUEST_LOGS=true`
-- Both `${DATA_DIR}` and `~/.9router` resolve to the same location in a Docker container — the symlink `/root/.9router -> /app/data` is created at build time.
+- Both `${DATA_DIR}` and `~/.44router` resolve to the same location in a Docker container — the symlink `/root/.44router -> /app/data` is created at build time.
 
 </details>
 
@@ -1433,7 +1433,7 @@ Notes:
 
 **OAuth token expired**
 
-- Auto-refreshed by Another 9Router
+- Auto-refreshed by Another 44Router
 - If issues persist: Dashboard → Provider → Reconnect
 
 **High costs**
@@ -1498,36 +1498,36 @@ Authorization: Bearer your-api-key
 
 ## 📧 Support
 
-- **GitHub**: [github.com/jackielnikkie/another-9router](https://github.com/jackielnikkie/another-9router)
-- **Issues**: [github.com/jackielnikkie/another-9router/issues](https://github.com/jackielnikkie/another-9router/issues)
+- **GitHub**: [github.com/jackielnikkie/another-44router](https://github.com/jackielnikkie/another-44router)
+- **Issues**: [github.com/jackielnikkie/another-44router/issues](https://github.com/jackielnikkie/another-44router/issues)
 
 > This is a personal fork. For questions about the upstream project itself
 > (features, provider support, the original roadmap), use the
-> [9Router repository](https://github.com/decolua/9router) instead.
+> [44Router repository](https://github.com/jackielnikkie/another-44router) instead.
 
 ---
 
 ## 🔀 Forks
 
-**[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — A full-featured TypeScript fork of 9Router. Adds 36+ providers, 4-tier auto-fallback, multi-modal APIs (images, embeddings, audio, TTS), circuit breaker, semantic cache, LLM evaluations, and a polished dashboard. 368+ unit tests. Available via npm and Docker.
+**[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — A full-featured TypeScript fork of 44Router. Adds 36+ providers, 4-tier auto-fallback, multi-modal APIs (images, embeddings, audio, TTS), circuit breaker, semantic cache, LLM evaluations, and a polished dashboard. 368+ unit tests. Available via npm and Docker.
 
 ---
 
 ## 🙏 Acknowledgments
 
-**Another 9Router is a fork of [9Router](https://github.com/decolua/9router) by [@decolua](https://github.com/decolua).**
+**Another 44Router is a fork of [44Router](https://github.com/decolua/44router) by [@decolua](https://github.com/decolua).**
 The entire original codebase, architecture, provider integrations and token-saving
-design are the work of the 9Router author and its contributors. This fork only adds
+design are the work of the 44Router author and its contributors. This fork only adds
 local changes on top — all credit for the foundation belongs to them.
 
-- **[9Router](https://github.com/decolua/9router)** by **[@decolua](https://github.com/decolua)** — the upstream project this fork is based on. ⭐ it on GitHub!
+- **[44Router](https://github.com/decolua/44router)** by **[@decolua](https://github.com/decolua)** — the upstream project this fork is based on. ⭐ it on GitHub!
 
 Built on the shoulders of giants:
 
 - **[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** — original Go implementation that inspired this JavaScript port.
-- **[RTK](https://github.com/rtk-ai/rtk)** ![Stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat&color=yellow) — Rust token-saver. 9Router ports its compression pipeline to JS → **−20-40% input tokens** on every request.
-- **[Caveman](https://github.com/JuliusBrussee/caveman)** ![Stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat&color=yellow) by **[@JuliusBrussee](https://github.com/JuliusBrussee)** — viral _"why use many token when few token do trick"_. 9Router adapts its prompt → **−65% output tokens**.
-- **[Ponytail](https://github.com/DietrichGebert/ponytail)** ![Stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat&color=yellow) by **[@DietrichGebert](https://github.com/DietrichGebert)** — _"lazy senior dev"_ skill. 9Router injects its YAGNI-first ladder → **fewer tokens, less code, shorter diffs**.
+- **[RTK](https://github.com/rtk-ai/rtk)** ![Stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat&color=yellow) — Rust token-saver. 44Router ports its compression pipeline to JS → **−20-40% input tokens** on every request.
+- **[Caveman](https://github.com/JuliusBrussee/caveman)** ![Stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat&color=yellow) by **[@JuliusBrussee](https://github.com/JuliusBrussee)** — viral _"why use many token when few token do trick"_. 44Router adapts its prompt → **−65% output tokens**.
+- **[Ponytail](https://github.com/DietrichGebert/ponytail)** ![Stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat&color=yellow) by **[@DietrichGebert](https://github.com/DietrichGebert)** — _"lazy senior dev"_ skill. 44Router injects its YAGNI-first ladder → **fewer tokens, less code, shorter diffs**.
 
 Huge thanks to these authors — without their work, the token-saving features wouldn't exist. ⭐ them on GitHub!
 
